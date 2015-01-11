@@ -2529,7 +2529,7 @@ input[type="submit"] {
 		.w-logo-img {
 			display: inline-block;
 			vertical-align: middle;
-			height: 40px; /* TEMP */
+			height: 70px; /* TEMP */
 			-webkit-transition: height 0.1s ease;
 					transition: height 0.1s ease;
 			}
@@ -2539,8 +2539,8 @@ input[type="submit"] {
 			}
 			
 .l-canvas.headertype_advanced .w-logo {
-	line-height: 120px;
-	height: 120px;
+	line-height: 140px;
+	height: 140px;
 	}
 
 
